@@ -1,0 +1,3 @@
+[submodule "Test_Submod1"]
+	path = Test_Submod1
+	url = https://github.com/mtv-dnu/Test_Submod1.git
